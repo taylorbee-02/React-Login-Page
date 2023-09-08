@@ -1,0 +1,7 @@
+{
+  "name": "Road Track",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
